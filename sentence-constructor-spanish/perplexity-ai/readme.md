@@ -11,6 +11,10 @@ In addition to that student has only 3 attempts to answer correctly, if correct 
 
 The student also earns 20 points for correct answer and 0 points for incorrect answer. Once 200 points thereshold is reached I've instructed the model to congratulate the student and end the session.
 
+The model performed as expected allowing only 3 attempts and granting 20 points for correct answer and 0 points for incorrent answer.
+
+I also tried to ask if model could provide the picture that would best describe the sentence provided but it did not show one - which was expected.
+
 ### Additional useful links
 
 https://www.perplexity.ai/hub/faq/prompting-tips-and-examples-on-perplexity
