@@ -15,6 +15,14 @@ The model performed as expected allowing only 3 attempts and granting 20 points 
 
 I also tried to ask if model could provide the picture that would best describe the sentence provided but it did not show one - which was expected.
 
+Additionally I tried to include 60 second timer and was presented with something like this when using R1 model:
+
+Attempts left: 3
+Time remaining: 60 seconds
+Current points: 0
+
+The model did not enforce 60 second timing.
+
 ### Additional useful links
 
 https://www.perplexity.ai/hub/faq/prompting-tips-and-examples-on-perplexity
